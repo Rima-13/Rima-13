@@ -1,4 +1,4 @@
-<h1 align="center" color:#00EAD7>Hi 👋, I'm Rima</h1>
+<h1 align="center" style="color:#00EAD7">Hi 👋, I'm Rima</h1>
 <h3 align="center" style="color:#033BA6">Currently a Student at Kongu Engineering College</h3>
 
 
